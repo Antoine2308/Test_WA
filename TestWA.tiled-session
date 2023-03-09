@@ -1,0 +1,109 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "maps/CarteTest.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 661.5,
+                "y": 458
+            }
+        },
+        "maps/conference.tmj": {
+            "scale": 1.120703125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 384.13384454513766,
+                "y": 225.7511327988846
+            }
+        },
+        "maps/conference.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "maps/conference.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "maps/conference.tmj#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "maps/conference.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "maps/conference.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "maps/conference.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "maps/conference.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "maps/conference.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "maps/conference.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "maps/conference.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "maps/map.tmj": {
+            "scale": 0.867641129032258,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 588.3769025212039,
+                "y": 333.0870221912397
+            }
+        },
+        "maps/map.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "maps/map.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "maps/map.tmj#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "maps/map.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "maps/map.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "maps/map.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "maps/map.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "maps/map.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "maps/map.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "maps/map.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/antoi/OneDrive/Documents/GitHub/Test_WA/maps",
+    "last.imagePath": "C:/Users/antoi/OneDrive/Documents/GitHub/Test_WA/tilesets",
+    "map.height": 32,
+    "map.lastUsedExportFilter": "Fichiers de carte JSON (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 32,
+    "openFiles": [
+    ],
+    "project": "TestWA.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "maps/conference.tmj"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
