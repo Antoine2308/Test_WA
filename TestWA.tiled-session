@@ -9,10 +9,10 @@
     "fileStates": {
         "maps/CarteTest.tmx": {
             "scale": 1,
-            "selectedLayer": 1,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 661.5,
-                "y": 458
+                "x": 439.5,
+                "y": 217
             }
         },
         "maps/conference.tmj": {
@@ -90,6 +90,9 @@
         },
         "maps/map.tmj#WA_User_Interface": {
             "scaleInDock": 1
+        },
+        "tilesets/Fond.tsx": {
+            "scaleInEditor": 1
         }
     },
     "last.exportedFilePath": "C:/Users/antoi/OneDrive/Documents/GitHub/Test_WA/maps",
@@ -103,6 +106,7 @@
     "project": "TestWA.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "tilesets/Fond.tsx",
         "maps/conference.tmj"
     ],
     "tileset.lastUsedFormat": "tsx"
