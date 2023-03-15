@@ -3,24 +3,27 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "maps/map.tmj",
     "expandedProjectPaths": [
+        "maps",
+        "tilesets",
+        "."
     ],
     "fileStates": {
         "maps/CarteTest.tmx": {
-            "scale": 1,
-            "selectedLayer": 4,
+            "scale": 0.75,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 439.5,
-                "y": 217
+                "x": 511.99999999999994,
+                "y": 512
             }
         },
         "maps/conference.tmj": {
             "scale": 1.120703125,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 384.13384454513766,
-                "y": 225.7511327988846
+                "x": 219.0589055420007,
+                "y": 224.85883583130015
             }
         },
         "maps/conference.tmj#WA_Decoration": {
@@ -57,7 +60,7 @@
             "scale": 0.867641129032258,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 588.3769025212039,
+                "x": 481.76600441501114,
                 "y": 333.0870221912397
             }
         },
@@ -91,8 +94,25 @@
         "maps/map.tmj#WA_User_Interface": {
             "scaleInDock": 1
         },
-        "tilesets/Fond.tsx": {
+        "tilesets/Campus.tsx": {
+            "scaleInDock": 0.0625,
             "scaleInEditor": 1
+        },
+        "tilesets/Ext.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/Fond.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "tilesets/blockspeciaux.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        },
+        "tilesets/campusentier(2).tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 0.33
         }
     },
     "last.exportedFilePath": "C:/Users/antoi/OneDrive/Documents/GitHub/Test_WA/maps",
@@ -102,12 +122,26 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 32,
     "openFiles": [
+        "maps/CarteTest.tmx",
+        "maps/map.tmj",
+        "tilesets/blockspeciaux.tsx",
+        "tilesets/Ext.tsx",
+        "maps/conference.tmj",
+        "tilesets/campusentier(2).tsx",
+        "tilesets/Campus.tsx",
+        "tilesets/Campus.tsx"
     ],
     "project": "TestWA.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "tilesets/Fond.tsx",
-        "maps/conference.tmj"
+        "maps/CarteTest.tmx",
+        "tilesets/Campus.tsx",
+        "tilesets/campusentier(2).tsx",
+        "maps/conference.tmj",
+        "tilesets/Ext.tsx",
+        "tilesets/blockspeciaux.tsx",
+        "maps/map.tmj",
+        "tilesets/Fond.tsx"
     ],
     "tileset.lastUsedFormat": "tsx"
 }
