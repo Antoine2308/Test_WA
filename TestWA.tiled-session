@@ -3,27 +3,57 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "maps/map.tmj",
+    "activeFile": "C:/Users/antoi/OneDrive/Documents/GitHub/uni-rennes2D/maps/map.json",
     "expandedProjectPaths": [
-        "maps",
         "tilesets",
+        "maps",
         "."
     ],
+    "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
     "fileStates": {
+        "C:/Users/antoi/OneDrive/Documents/GitHub/uni-rennes2D/maps/map.json": {
+            "scale": 0.3701941287878788,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 958.9563215450535,
+                "y": 1053.5013109931572
+            }
+        },
+        "C:/Users/antoi/OneDrive/Documents/GitHub/uni-rennes2D/maps/map.json#LimeZu_MI_Anim_Arrow": {
+            "scaleInDock": 1
+        },
+        "C:/Users/antoi/OneDrive/Documents/GitHub/uni-rennes2D/maps/map.json#LimeZu_MI_Hospital": {
+            "scaleInDock": 1
+        },
+        "C:/Users/antoi/OneDrive/Documents/GitHub/uni-rennes2D/maps/map.json#Sev_Map": {
+            "scaleInDock": 1
+        },
+        "C:/Users/antoi/OneDrive/Documents/GitHub/uni-rennes2D/maps/map.json#Sev_Metro": {
+            "scaleInDock": 1
+        },
+        "C:/Users/antoi/OneDrive/Documents/GitHub/uni-rennes2D/maps/map.json#Sev_Props": {
+            "scaleInDock": 1
+        },
+        "C:/Users/antoi/OneDrive/Documents/GitHub/uni-rennes2D/maps/map.json#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "C:/Users/antoi/OneDrive/Documents/GitHub/uni-rennes2D/maps/map.json#WA_User_Interface": {
+            "scaleInDock": 1
+        },
         "maps/CarteTest.tmx": {
             "scale": 0.75,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 511.99999999999994,
-                "y": 512
+                "x": 617.3333333333334,
+                "y": 558.6666666666667
             }
         },
         "maps/conference.tmj": {
             "scale": 1.120703125,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 219.0589055420007,
-                "y": 224.85883583130015
+                "x": 219.50505402579293,
+                "y": 225.7511327988846
             }
         },
         "maps/conference.tmj#WA_Decoration": {
@@ -60,8 +90,8 @@
             "scale": 0.867641129032258,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 481.76600441501114,
-                "y": 333.0870221912397
+                "x": 495.5966074125713,
+                "y": 336.54467294062977
             }
         },
         "maps/map.tmj#WA_Decoration": {
@@ -122,25 +152,19 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 32,
     "openFiles": [
-        "maps/CarteTest.tmx",
-        "maps/map.tmj",
-        "tilesets/blockspeciaux.tsx",
-        "tilesets/Ext.tsx",
-        "maps/conference.tmj",
-        "tilesets/campusentier(2).tsx",
-        "tilesets/Campus.tsx",
-        "tilesets/Campus.tsx"
+        "C:/Users/antoi/OneDrive/Documents/GitHub/uni-rennes2D/maps/map.json"
     ],
     "project": "TestWA.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "maps/CarteTest.tmx",
+        "C:/Users/antoi/OneDrive/Documents/GitHub/uni-rennes2D/maps/map.json",
         "tilesets/Campus.tsx",
         "tilesets/campusentier(2).tsx",
         "maps/conference.tmj",
         "tilesets/Ext.tsx",
         "tilesets/blockspeciaux.tsx",
         "maps/map.tmj",
+        "maps/CarteTest.tmx",
         "tilesets/Fond.tsx"
     ],
     "tileset.lastUsedFormat": "tsx"
